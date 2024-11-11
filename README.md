@@ -4,8 +4,9 @@ CRUD create-crear Read-Leer Update-actualizar Delete-borrar Tabla Materia
 - ![image](https://github.com/user-attachments/assets/f15f1bf5-3336-405f-be0a-b340069e0559)
 -
 - Botones de editar y borrar
-- ![image](https://github.com/user-attachments/assets/17dfee3f-141f-4510-bb54-f09e7402dbf0)
+- ![image](https://github.com/user-attachments/assets/95a8a8e7-6ff5-4b5b-b945-8d56dc54141f)
 -
 - Ventana de edicion
-- ![image](https://github.com/user-attachments/assets/241d1529-a0fd-4f72-aa73-eaeb0f7775a6)
+- ![image](https://github.com/user-attachments/assets/3dc784a4-c9f5-4ec0-a491-e4a0b114a25d)
+
 
